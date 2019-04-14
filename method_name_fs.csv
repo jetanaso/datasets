@@ -1,0 +1,8 @@
+iteration,method
+1,all features
+2,weight by information gain
+3,weight by chi squared statistic
+4,weight by FCBF
+5,forward selection
+6,backward elimination
+7,evolutionary selection

@@ -1,0 +1,5 @@
+iteration,method
+1,imbalanced data
+2,under-sampling
+3,over-sampling
+4,cost sensitive

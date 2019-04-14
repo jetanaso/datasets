@@ -1,0 +1,8 @@
+iteration,method
+1,Decision Tree
+2,Naive Bayes
+3,SVM
+4,Vote (DT+NB+SVM)
+5,Bagging (SVM)
+6,Random Forest
+7,AdaBoost (DT)
